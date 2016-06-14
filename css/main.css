@@ -47,7 +47,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-    color: #6CB670;
+    color: #2a97d8;
 }
 
 h1, h2, h3,
@@ -71,7 +71,7 @@ h4, h5, h6 {
 }
 
 span.color {
-	color: #0feb9e;
+	color: #2a97d8;
 }
 
 body > section,
@@ -82,7 +82,7 @@ body > section,
 .sec-title {}
 
 .sec-title h2 {
-  color: #0eb493;
+  color: #2a97d8;
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -220,7 +220,7 @@ body > section,
 
 .carousel-caption p:before,
 .carousel-caption p:after {
-color: #0feb9e;
+color: #2a97d8;
 content: "___";
 position: relative;
 top: -8px;
@@ -308,9 +308,9 @@ top: -8px;
 }
 
 .service-icon {
-  border: 1px solid #0eb493;
+  border: 1px solid #2a97d8;
   border-radius: 50%;
-  color: #0eb493;
+  color: #2a97d8;
   float: left;
   padding: 10px 13px;
 }
@@ -355,7 +355,7 @@ top: -8px;
 
 .work-filter ul li a:hover,
 .work-filter ul li a.active {
-  background-color: #0eb493;
+  background-color: #2a97d8;
   border-radius: 6px;
   color: #fff;
   padding: 5px 17px;
@@ -482,7 +482,7 @@ top: -8px;
 }
 
 .team-member:hover h4 {
-  color: #0eb493;
+  color: #2a97d8;
 }
 
 .team-member .social-links {
@@ -490,7 +490,7 @@ top: -8px;
 }
 
 .team-member .social-links li a {
-  background-color: #0d7c67;
+  background-color: #2a97d8;
   color: #fff;
   height: 42px;
   padding: 10px 0 0;
@@ -652,7 +652,7 @@ label.error {
 
 
 .footer {
-  background-color: #1ea78d;
+  background-color: #2a97d8;
   border-top: 5px solid #062033;
   color: #fff;
 }
