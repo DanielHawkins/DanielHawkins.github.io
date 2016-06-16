@@ -43,14 +43,6 @@ iframe {
 a {
   color: #2a97d8;
 }
-a, a:focus, a:hover {
-    text-decoration: none;
-    outline: 0;
-}
-
-a:focus, a:hover {
-    color: #2a97d8;
-}
 
 h1, h2, h3,
 h4, h5, h6 {
