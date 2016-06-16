@@ -27,7 +27,7 @@ figure, p {
     margin: 0;
 }
 
-header > a {
+a {
     color: #fff;
 	
     -webkit-transition: all .3s ease-in 0s;
