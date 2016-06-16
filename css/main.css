@@ -28,6 +28,18 @@ figure, p {
 }
 
 a {
+	color: #2a97d8;
+}
+a, a:focus, a:hover {
+text-decoration: none;
+outline: 0;
+}
+
+a:focus, a:hover {
+color: #2a97d8;
+}
+
+header > a {
     color: #fff;
 	
     -webkit-transition: all .3s ease-in 0s;
@@ -39,14 +51,6 @@ a {
 
 iframe {
     border: 0;
-}
-a, a:focus, a:hover {
-    text-decoration: none;
-    outline: 0;
-}
-
-a:focus, a:hover {
-    color: #6CB670;
 }
 
 h1, h2, h3,
@@ -146,7 +150,7 @@ body > section,
 ==========================================*/
 
 #navigation {
-  background-color: #2a97d8;
+  background-color: rgba(16, 22, 54, 0.2);
   border: 0 none;
   margin: 0;
   
