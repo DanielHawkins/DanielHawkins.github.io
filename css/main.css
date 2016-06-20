@@ -37,6 +37,18 @@ color: #010101;
 }
 
 a {
+  color: #2a97d8;
+}
+a, a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+
+a:focus, a:hover {
+    color: #2a97d8;
+}
+
+header > a {
     color: #fff;
 	
     -webkit-transition: all .3s ease-in 0s;
